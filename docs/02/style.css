@@ -1,0 +1,44 @@
+/* font-family: 'Hind Madurai', sans-serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Fjalla One', sans-serif; */
+
+.display-4 {
+    font-family: 'Fjalla One', sans-serif ; 
+}
+
+body .navbar .lead {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.jumbotron {
+    max-height: 200px;
+    margin:0px;
+}
+
+#carouselId {
+    padding: 0;
+    width:100%;
+    /* max-height: 100px; */
+    
+}
+
+.carousel-caption {
+    /* position: absolute;
+    top:50%;
+    transform: translateY(-50%); */
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.carousel-caption h1{
+    font-size: 500%;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 10px #000;
+}
+
+.carousel-caption h3{
+    font-size: 200%;
+    font-weight: 500;
+    text-shadow: 1px 1px 10px #000;
+}
+
+
